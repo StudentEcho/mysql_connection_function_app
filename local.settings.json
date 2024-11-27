@@ -1,9 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "node"
-  },
-  "ConnectionStrings": {
-    "mysql": "Server=tcp:wix-mysql-server-name.mysql.database.azure.com,3306;Database=mysqltutorial;Uid=shuzhennong;Pwd=Fudan@0216$;Encrypt=false;TrustServerCertificate=false;Connection Timeout=30;"
-  }
-}
